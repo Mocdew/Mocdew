@@ -4,7 +4,7 @@ Data science student building a portfolio of end-to-end projects — from classi
 
 ## 🚀 About Me
 
-- 🎓 Data science student, always deep in a notebook
+- 🎓 Data scientist
 - 🔭 Currently building a portfolio aimed at internship / entry-level data science roles
 - 🧠 Expanding into **deep learning** — neural networks, sequence models, and applying them alongside classical ML
 - 🎮 Big into **VALORANT** and esports — I like turning competitive gameplay data into real analytical insight
